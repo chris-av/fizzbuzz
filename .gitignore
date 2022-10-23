@@ -1,0 +1,18 @@
+# local dependencies
+node_modules
+
+
+# environment variables and secrets
+.env
+.env.local
+
+
+
+# cache and other files
+.vscode
+*.pyc
+*.pyo
+__pycache__
+.cache
+
+
