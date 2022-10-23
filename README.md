@@ -11,3 +11,12 @@ Write a function that returns:
 Writing this function in multiple languages for practice and learning.
 
 
+## Todo 
+
+* Create fizzbuzz for `c-prog/`
+* Create fizzbuzz for `cpp`
+* Create fizzbuzz for `python`
+* Create fizzbuzz for `zig`
+
+
+
